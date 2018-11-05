@@ -10,3 +10,6 @@ dependencies:
 - name: flogo-demo-k8
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
+- name: golang-http
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
